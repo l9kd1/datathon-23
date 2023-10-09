@@ -1,0 +1,5 @@
+.secrets
+./extension.py 
+venv
+stocks/raw
+.DS_Store
