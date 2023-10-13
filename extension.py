@@ -10,7 +10,7 @@ register(
     'SP-Datathon',
     csvdir_equities(
         ['daily'],
-        './input/dt23-test',
+        './stocks/',
     ),
     calendar_name='NYSE', # US equities
     start_session=start_session,
