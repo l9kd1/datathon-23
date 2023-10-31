@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="442e7c27-0a84-40b2-9500-084b19281eed" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/symbol_info.csv" beforeDir="false" afterPath="$PROJECT_DIR$/symbol_info.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +52,7 @@
       <workItem from="1697081461722" duration="3380000" />
       <workItem from="1697658087750" duration="664000" />
       <workItem from="1697667240231" duration="936000" />
+      <workItem from="1698083052976" duration="631000" />
     </task>
     <servers />
   </component>
